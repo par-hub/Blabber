@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286350198643",
+    "project_id": "blabber-210dd",
+    "storage_bucket": "blabber-210dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286350198643:android:0c7fb4550c72c993b9e706",
+        "android_client_info": {
+          "package_name": "com.example.blabber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DKwduIg-gVqC83j3RnuUmtOnxAnsOfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
